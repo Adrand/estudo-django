@@ -1,6 +1,7 @@
 # estudo-django
 estudo de criação de projeto django
 
+Aplicação disponível em https://estudoprodjango.herokuapp.com/
 
 [![Build Status](https://app.travis-ci.com/Adrand/estudo-django.svg?branch=main)](https://travis-ci.com/github/Adrand/estudo-django)
 [![Updates](https://pyup.io/repos/github/Adrand/estudo-django/shield.svg)](https://pyup.io/repos/github/Adrand/estudo-django/)
