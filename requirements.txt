@@ -133,9 +133,9 @@ django-extensions==3.1.3 \
     --hash=sha256:50de8977794a66a91575dd40f87d5053608f679561731845edbd325ceeb387e3 \
     --hash=sha256:5f0fea7bf131ca303090352577a9e7f8bfbf5489bd9d9c8aea9401db28db34a0
     # via -r requirements.in
-django-ordered-model==3.4.3 \
-    --hash=sha256:3a8a0259bfd73a0c0b124932bb1fe59a6d2f4cbea096b20634d2a2d1f5d585cc \
-    --hash=sha256:5aa58277b81b4ca93fb18caf15069af604bac5c5146d2c29aae56da07a86ef1b
+django-ordered-model==3.5 \
+    --hash=sha256:26c6b5a87a6e51323c53e0233d999dd1a9f40d43b0f17e478de951bc1f999c73 \
+    --hash=sha256:a840b475ca0f2bac5f6e4918e107a8e075578babcd94b3b8d0ba7f009eaf1450
     # via -r requirements.in
 django-s3-folder-storage==0.5 \
     --hash=sha256:eb5fd3994726f5b87ddc0ea1a6f1af3f598f9d743127c27d6dae111d18a79abe
