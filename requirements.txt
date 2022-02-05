@@ -12,9 +12,9 @@ backcall==0.2.0 \
     --hash=sha256:5cbdbf27be5e7cfadb448baf0aa95508f91f2bbc6c6437cd9cd06e2a4c215e1e \
     --hash=sha256:fbbce6a29f263178a1f7915c1940bde0ec2b2a967566fe1c65c1dfb7422bd255
     # via ipython
-boto3==1.18.42 \
-    --hash=sha256:63b9846c26e0905f4e9e39d6b59f152330c53a926d693439161c43dcf9779365 \
-    --hash=sha256:a9232185d8e7e2fd2b166c0ebee5d7b1f787fdb3093f33bbf5aa932c08f0ccac
+boto3==1.20.49 \
+    --hash=sha256:09d7ffbbfcc212d22c92acf127ebc8c8ab89a2c03fa6360ab35b14d52b0df8ab \
+    --hash=sha256:34d170d24d10adb8ffe2a907ff35878e22ed2ceb24d16d191f8070053f11fc18
     # via django-s3-folder-storage
 botocore==1.23.49 \
     --hash=sha256:3f72d20c65c89b694d9c7d164eb499877331783577f0207739088d11eaf315e7 \
