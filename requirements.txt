@@ -140,9 +140,9 @@ django-ordered-model==3.5 \
 django-s3-folder-storage==0.5 \
     --hash=sha256:eb5fd3994726f5b87ddc0ea1a6f1af3f598f9d743127c27d6dae111d18a79abe
     # via -r requirements.in
-django-storages==1.11.1 \
-    --hash=sha256:c823dbf56c9e35b0999a13d7e05062b837bae36c518a40255d522fbe3750fbb4 \
-    --hash=sha256:f28765826d507a0309cfaa849bd084894bc71d81bf0d09479168d44785396f80
+django-storages==1.12.3 \
+    --hash=sha256:204a99f218b747c46edbfeeb1310d357f83f90fa6a6024d8d0a3f422570cee84 \
+    --hash=sha256:a475edb2f0f04c4f7e548919a751ecd50117270833956ed5bd585c0575d2a5e7
     # via
     #   collectfast
     #   django-s3-folder-storage
