@@ -18,7 +18,7 @@ from pathlib import Path
 
 import dj_database_url
 from decouple import config, Csv
-from dj_database_url import parse
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
