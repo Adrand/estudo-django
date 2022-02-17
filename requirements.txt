@@ -16,9 +16,9 @@ boto3==1.20.49 \
     --hash=sha256:09d7ffbbfcc212d22c92acf127ebc8c8ab89a2c03fa6360ab35b14d52b0df8ab \
     --hash=sha256:34d170d24d10adb8ffe2a907ff35878e22ed2ceb24d16d191f8070053f11fc18
     # via django-s3-folder-storage
-botocore==1.23.49 \
-    --hash=sha256:3f72d20c65c89b694d9c7d164eb499877331783577f0207739088d11eaf315e7 \
-    --hash=sha256:b013b2911379d1de896eb6ef375126bb2fc2b77b3e0af75821661b7ea817d029
+botocore==1.24.2 \
+    --hash=sha256:c017dd174285a07db4e1b844750c43550c1f51e8256e722f1e69030c4f6c78f1 \
+    --hash=sha256:d1547d0bd8428df2dc1ad95b227e271914bb01f8edbd16a45766465c2090bc9b
     # via
     #   boto3
     #   s3transfer
