@@ -20,11 +20,9 @@ def test_status_code(resp):
     assert resp.status_code == 200
 
 
-
 def test_titulo_video(resp, videos):
     for video in videos:
         assert_contains(resp, video.titulo)
-
 
 
 def test_link_video(resp, videos):
