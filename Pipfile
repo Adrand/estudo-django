@@ -70,6 +70,7 @@ Django = "==3.2.7"
 Collectfast = "==2.2.0"
 Pygments = "==2.10.0"
 PyJWT = "==2.1.0"
+upgrade-requirements = "*"
 
 [dev-packages]
 flake8 = "*"
