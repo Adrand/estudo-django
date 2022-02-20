@@ -245,9 +245,9 @@ ipython==7.27.0 \
     --hash=sha256:58b55ebfdfa260dad10d509702dc2857cb25ad82609506b070cf2d7b7df5af13 \
     --hash=sha256:75b5e060a3417cf64f138e0bb78e58512742c57dc29db5a5058a2b1f0c10df02
     # via -r requirements.txt
-jedi==0.18.0 \
-    --hash=sha256:18456d83f65f400ab0c2d3319e48520420ef43b23a086fdc05dff34132f0fb93 \
-    --hash=sha256:92550a404bad8afed881a137ec9a461fed49eca661414be45059329614ed0707
+jedi==0.18.1 \
+    --hash=sha256:637c9635fcf47945ceb91cd7f320234a7be540ded6f3e99a50cb6febdfd1ba8d \
+    --hash=sha256:74137626a64a99c8eb6ae5832d99b3bdd7d29a3850fe2aa80a4126b2a7d949ab
     # via
     #   -r requirements.txt
     #   ipython
