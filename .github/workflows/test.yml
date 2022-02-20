@@ -23,7 +23,7 @@ jobs:
           pipenv run pytest --cov=pypro
       - name: Instalar dependências
         run: |
-          pipenv install -r requirements-dev.txt
+          pip install -r requirements-dev.txt
       - name: Rodar flake8.
         run: |
           pipenv run flake8 .
