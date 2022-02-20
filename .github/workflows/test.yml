@@ -20,7 +20,7 @@ jobs:
           cp contrib/env-sample .env
       - name: Rodar Testes Automáticos
         run: |
-          pip run pytest --cov=pypro
+          pytest --cov=pypro
       - name: Instalar dependências
         run: |
           pipenv install -r requirements-dev.txt
