@@ -15,17 +15,4 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - name: Copiar Configurações .env
-        run: |
-          cp contrib/env-sample .env
-      - name: Rodar Testes Automáticos
-        run: |
-          pytest --cov=pypro
-      - name: Instalar dependências
-        run: |
-          pipenv install -r requirements-dev.txt
-      - name: Rodar flake8.
-        run: |
-          pipenv run flake8 .
-
 
