@@ -32,6 +32,4 @@ jobs:
     - name: Run Tests
       run: |
         pipenv run pytest --cov=pypro
-    - name: Rodar Testes Automáticos
-      run: |
-        pytest --cov=pypro
+
